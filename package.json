@@ -41,7 +41,7 @@
     "lint-staged": "^16.1.6",
     "tsup": "8.3.0",
     "tsx": "^4.20.5",
-    "typedoc": "^0.28.16",
+    "typedoc": "^0.28.17",
     "typedoc-plugin-markdown": "^4.9.0",
     "typescript": "~5.9.3",
     "vite-tsconfig-paths": "^5.1.4",
